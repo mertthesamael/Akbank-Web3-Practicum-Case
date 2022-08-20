@@ -27,4 +27,4 @@ const oddishOrEvenish = (number) => {
 
   }
 
-console.log(432) // 4 + 3 + 2 == 9 Bu durumda çıktımız 'Odd' olacaktır.
+oddishOrEvenish(432) // 4 + 3 + 2 == 9 Bu durumda çıktımız 'Odd' olacaktır.
